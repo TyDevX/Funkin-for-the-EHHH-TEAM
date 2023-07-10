@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nick.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="458" y="0" width="229" height="229" frameX="2" frameY="2" frameWidth="225" frameHeight="225"/>
+	<SubTexture name="Up0000" x="0" y="229" width="205" height="255" frameX="2" frameY="2" frameWidth="201" frameHeight="251"/>
+	<SubTexture name="Left0000" x="205" y="229" width="279" height="187" frameX="2" frameY="2" frameWidth="275" frameHeight="183"/>
+	<SubTexture name="Right0000" x="229" y="0" width="229" height="229" frameX="2" frameY="2" frameWidth="225" frameHeight="225"/>
+	<SubTexture name="Down0000" x="0" y="0" width="229" height="229" frameX="2" frameY="2" frameWidth="225" frameHeight="225"/>
+</TextureAtlas>
